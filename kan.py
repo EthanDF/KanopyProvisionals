@@ -33,9 +33,16 @@ def getKanHTML(kanID):
     r = requests.get(kURLFull)
     kHTML = r.text
 
-    soup = BeautifulSoup(kHTML)
+    #test that we have access to video
+    badText = 'Your search has not matched any results'
 
-    return soup
+    if badText in kHTML:
+        soup = '-1'
+        # print('bad text found')
+        return soup
+    else:
+        soup = BeautifulSoup(kHTML)
+        return soup
 
 def parseHTML(soup):
 
@@ -61,7 +68,7 @@ def testKanopy(kanopyID,titCollection):
     else:
         webbrowser.open(kanURL+kanopyID, new=1)
         PDAgroupResponse = input('Is '+titCollection+' a PDA Title? \nTrue or False')
-        if PDAgroupResponse in(True, 'true', 't', 'T'):
+        if PDAgroupResponse in(True, 'true', 't', 'T', 'True'):
             PDAgroup = True
         else:
             PDAgroup = False
@@ -70,6 +77,13 @@ def testKanopy(kanopyID,titCollection):
 
 def runKanopy(kanID):
     soup = getKanHTML(kanID)
+    # print ('soup is: ', soup)
+    if soup == '-1':
+        print("video not accessible")
+
+        PDAGroup = None
+        return PDAGroup
+
     titCollection = parseHTML(soup)
 
     print(titCollection)
@@ -79,6 +93,7 @@ def runKanopy(kanID):
     PDAGroup = testKanopy(kanID,titCollection)
 
     return PDAGroup
+    print (soup)
 
 def writeToPDAFile(record, file):
     with open(file, 'ab') as x:
@@ -90,7 +105,7 @@ def writeToPDAFile(record, file):
 
 
 def openKanopyMarc():
-    marcFile = 'C:\\Users\\fenichele\\Desktop\\Kanopy_MARC_Records__fau.kanopystreaming.com__13-Mar-2015.mrc'
+    marcFile = 'C:\\Users\\fenichele\\Desktop\\Kanopy_MARC_Records__fau.kanopystreaming.com__4-May-2015.mrc'
 
     from tkinter import  filedialog
     marcPath = tkinter.filedialog.askopenfile()
@@ -110,6 +125,8 @@ def openKanopyMarc():
                 writeToPDAFile(record,pdaKanopyMarcFile)
             elif isPDA is False:
                 writeToPDAFile(record,licenseKanopyMarcFile)
+            elif isPDA is None:
+                "PDA is not applicable b/c we don't have access"
             else:
                 "PDA is Unknown!"
 
