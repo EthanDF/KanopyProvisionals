@@ -105,7 +105,7 @@ def writeToPDAFile(record, file):
 
 
 def openKanopyMarc():
-    marcFile = 'C:\\Users\\fenichele\\Desktop\\Kanopy_MARC_Records__fau.kanopystreaming.com__4-May-2015.mrc'
+    marcFile = 'C:\\Users\\fenichele\\Desktop\\Kanopy_MARC_Records__fau.kanopystreaming.com__1-Jun-2015.mrc'
 
     from tkinter import  filedialog
     marcPath = tkinter.filedialog.askopenfile()
