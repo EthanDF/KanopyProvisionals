@@ -1,0 +1,1587 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Watch Louis Theroux - Twilight of the Porn Star now | KanopyStreaming.com</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/ksresp/favicon.ico" type="image/x-icon" />
+<meta name="description" content="A risque business In the 1990s, Louis spent time at the hub of America's adult entertainment industry - the San Fernando Valley in California - to fin" />
+<link rel="canonical" href="http://fau.kanopystreaming.com/video/louis-theroux-twilight-porn-star" />
+    <link type="text/css" rel="stylesheet" media="all" href="http://fau.kanopystreaming.com/sites/default/files/css/css_fc646f8e728967d60c7537a82da85494.css" />
+<!--[if lte IE 10]>
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/ksresp/css/ie10.css?L" />
+<![endif]-->
+
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+    <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/ksresp/favicon-152.png">
+
+            <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script type="text/javascript">
+          var $j = jQuery.noConflict();
+        </script>
+          <script type="text/javascript" src="http://fau.kanopystreaming.com/sites/default/files/js/js_7851cd4be15a560d6bed45961d416c53.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"ks":{"variables":{"ac_url":"\/sites\/all\/modules\/ks\/ks_solrsearch\/autocomplete.php?d=366","uid":0,"userkey":"id-0"}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.write(unescape("%3Cscript src='//hub.loginradius.com/cdn/Include/src/CustomeInterface.2.js' type='text/javascript'%3E%3C/script%3E"));
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+
+    (function(){var p=[],w=window,d=document,e=f=0;p.push('ua='+encodeURIComponent(navigator.userAgent));e|=w.ActiveXObject?1:0;e|=w.opera?2:0;e|=w.chrome?4:0;
+    e|='getBoxObjectFor' in d || 'mozInnerScreenX' in w?8:0;e|=('WebKitCSSMatrix' in w||'WebKitPoint' in w||'webkitStorageInfo' in w||'webkitURL' in w)?16:0;
+    e|=(e&16&&({}.toString).toString().indexOf("\n")===-1)?32:0;p.push('e='+e);f|='sandbox' in d.createElement('iframe')?1:0;f|='WebSocket' in w?2:0;
+    f|=w.Worker?4:0;f|=w.applicationCache?8:0;f|=w.history && history.pushState?16:0;f|=d.documentElement.webkitRequestFullScreen?32:0;f|='FileReader' in w?64:0;
+    p.push('f='+f);p.push('r='+Math.random().toString(36).substring(7));p.push('w='+screen.width);p.push('h='+screen.height);var s=d.createElement('script');
+    s.src='/whichbrowser/detect.js?' + p.join('&');d.getElementsByTagName('head')[0].appendChild(s);})();
+
+  
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    var islrsharing = "true"; var islrsocialcounter = "false"; var ismorepopup = "false";
+
+    $.getScript("//cdn.loginradius.com/share/v1/LoginRadius.js", function(data){
+
+        LoginRadius.util.ready(function() {
+
+                                  $SS.url = "http://fau.kanopystreaming.com/video/louis-theroux-twilight-porn-star";
+                                  $u = LoginRadius.user_settings;
+                                  $u.apikey="a76b006b-9b32-45fc-9ac5-9a4487ed4ce4";
+                                  $i = $SS.Interface.horizontal;
+                                  $SS.Providers.Top = ["Facebook", "Twitter", "GooglePlus", "LinkedIn", "Delicious", "Digg", "Email", "Pinterest"];
+                                  $SS.Providers.Customize = [ { "provider": "facebook", "shorturl": false},
+                                                              { "provider": "GooglePlus", "shorturl": false},
+                                                              { "provider": "LinkedIn", "shorturl": false},
+                                                              { "provider": "Delicious", "shorturl": false},
+                                                              { "provider": "Digg", "shorturl": false},
+                                                              { "provider": "Pinterest", "shorturl": false},
+                                                              { "provider": "Email", "shorturl": false}];
+                                  $u.sharecounttype="web";
+                                  $i.size = 32;
+                                  $i.show("lrsharecontainer");
+
+                                  $i = $SS.Interface.horizontal;
+                                  $SS.Providers.Top = ["Facebook", "Twitter"];
+                                  $SS.Providers.Customize = [ { "provider": "facebook", "shorturl": false}];
+                                  $u.sharecounttype="web";
+                                  $i.size = 32;
+                                  $i.show("lrsharecontainer_quick");
+
+                                });
+        $j(".lrsharecontainer_quick .lrshare_iconsprite32").live("click", function(){
+                                                                              id = $j(this).attr("title");
+                                                                              ga("send", "event", "share-quick", "click", id);
+                                                                            });
+        $j(".lrsharecontainer .lrshare_iconsprite32").live("click", function(){
+                                                                              id = $j(this).attr("title");
+                                                                              ga("send", "event", "share-tab", "click", id);
+                                                                            });
+      });
+
+  
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    
+      $(document).ready(function() {
+          
+          $(".jgrowl").each(function(index, item){
+            
+            $this = $(this);
+            
+            options = { title: "", message: $this.attr("data-msg"), size: "large", duration: 15000, location: "br"};
+            
+            if ($this.hasClass("error")) {
+              $j.growl.error(options);
+            } else if ($this.hasClass("warning")) {
+              $j.growl.warning(options);
+            } else {
+              $j.growl.notice(options);
+            }
+            
+          });
+          
+        });
+    
+    
+//--><!]]>
+</script>
+
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    
+  <script type='text/javascript'>
+      //<![CDATA[
+
+        /* Google Analytics */
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-18342559-1', 'auto');
+        ga('set', 'dimension4', Drupal.settings.ks.variables.userkey);
+        ga('send', 'pageview');
+
+        /* Pardot */
+        piAId = '55092';
+        piCId = '2672';
+        (function() {
+          function async_load(){
+            var s = document.createElement('script'); s.type = 'text/javascript';
+            s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+            var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+          }
+          if(window.attachEvent) { window.attachEvent('onload', async_load); }
+          else { window.addEventListener('load', async_load, false); }
+        })();
+
+      //]]>
+    </script>
+          <script>
+        (function() {
+          var _fbq = window._fbq || (window._fbq = []);
+          if (!_fbq.loaded) {
+            var fbds = document.createElement('script');
+            fbds.async = true;
+            fbds.src = '//connect.facebook.net/en_US/fbds.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(fbds, s);
+            _fbq.loaded = true;
+          }
+          _fbq.push(['addPixelId', '849494611796058']);
+        })();
+        window._fbq = window._fbq || [];
+        window._fbq.push(['track', 'PixelInitialized', {}]);
+      </script>
+      <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=849494611796058&amp;ev=PixelInitialized" /></noscript>
+    
+  </head>
+
+  <body class="page not-front not-logged-in node-type-video-page no-sidebars page-video-louis-theroux-twilight-porn-star section-video vp">
+    <div id="fb-root"></div>
+    <div id="skip">
+      <a href="#content-area">Skip to Content</a>
+    </div>
+
+    <!--BOOTSTRAP-->
+    <div id="header">
+                
+
+  
+    
+                      <div class='hidden-phone header-primary'>
+                        <div class='header-primary-content'>
+                          <div class='header-padding'>
+
+                            <ul class='nav'>
+                
+      <li class='pull-left'>
+        <a href="/"><img src="/images/logo.png" alt="Home" /></a>
+      </li>
+      
+      <li>
+        <a href="/user/login?destination=node%2F76668" class="login tthover login-modal" data-title="Sign in to post comments and manage your playlists" data-reason="Sign in to post comments and manage your playlists"><i class="fa fa-user"></i> Sign in</a>
+      </li>
+        <li class='vp-logo'>
+          <a href="/"><img src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_logo/subsites/logo-fau.kanopystreaming.com.gif" alt="Home"/></a>
+        </li>
+              </ul>
+              <div class='clearfix'></div>
+
+                          </div>
+                          <div class='stripe-divider'></div>
+                        </div>
+                      </div>
+                        
+
+  
+
+
+
+  
+     <div class='navbar navbar-static-top'>
+
+                          
+        <div class='header-mobile'>
+          <div class='navbar-mobile visible-phone'>
+
+            <button type='button' class='btn btn-navbar' data-toggle='collapse' data-target='.nav-collapse'>
+              <i class='fa fa-bars'></i>
+            </button>
+
+            <div class='logo-wrapper'>
+              <a href='/'>
+                <img src='/images/logo.png' alt='Home' />
+              </a>
+            </div>
+
+            <div class='btn-cart'>
+            
+            </div>
+
+          </div>
+        </div>
+        <div class='nav-collapse collapse'>
+          <div class='full-width-browse '>
+            <ul class='top-nav nav nested-menu-mobile'>
+
+              <li class='navigation-item visible-phone panel-heading'>
+                            <form action="/contact"  accept-charset="UTF-8" method="post" id="ks-solrsearch-search-box-1" class="searchbox">
+<div><a href="#" class="tthover search-tips" data-title="&lt;h4&gt;Search Tips&lt;/h4&gt;
+                  &lt;ol&gt;
+                    &lt;li&gt;To look for an exact title or phrase, put your search terms in quotation marks (e.g. &quot;Killing Us Softly&quot;).&lt;/li&gt;
+                    &lt;li&gt;Include &quot;AND&quot; between search terms to view results that must contain both words (not just either word).&lt;/li&gt;
+                    &lt;li&gt;Having searched for keywords, use the filters of the search results page to narrow your search (by category, producer, year of production, etc)&lt;/li&gt;
+                  &lt;/ol&gt;">Tips</a><div class="box"><input type="image" name="submit" value="Search" id="edit-submit-3"  class="form-submit" src="/images/search_icon2.png" />
+<div class="form-item" id="edit-search-1-wrapper">
+ <input type="text" maxlength="128" name="search" id="edit-search-1" size="60" value="" placeholder="What do you want to watch?" class="form-text search-query input-large" autocomplete="off" />
+</div>
+</div><input type="hidden" name="form_build_id" id="form-eeqgKzZ0G5Sh17go1OlU09hkUC1hTfAnswp1xbKIekc" value="form-eeqgKzZ0G5Sh17go1OlU09hkUC1hTfAnswp1xbKIekc"  />
+<input type="hidden" name="form_id" id="edit-ks-solrsearch-search-box-1" value="ks_solrsearch_search_box"  />
+
+</div></form>
+
+                          </li><li class='navigation-item visible-phone panel-heading'>
+                              <a href="/user/login">Sign in</a>
+                            </li>
+
+              
+            <li class='togglemenu-across hidden-phone browse-left'>
+              <a href='#_'>Browse Subjects</a>
+              <ul class="menu-dropdown browse-subjects"><li class="first"><a href="/catalog/film-popular">Film & Popular</a><ul class="menu-dropover"><li class="first"><a href="/catalog/film-popular/documentaries">Documentaries</a></li>
+<li><a href="/catalog/film-popular/early-film">Early Film</a></li>
+<li><a href="/catalog/film-popular/film-studies">Film Studies</a></li>
+<li><a href="/catalog/film-popular/foreign-language-film">Foreign Language Film</a></li>
+<li><a href="/catalog/film-popular/movies">Movies</a></li>
+<li><a href="/catalog/film-popular/tv-series">TV Series</a></li>
+<li class="last"><a href="/catalog/film-popular/staff-picks">Staff Picks</a></li>
+</ul></li>
+<li><a href="/catalog/arts">The Arts</a><ul class="menu-dropover"><li class="first"><a href="/catalog/arts/architecture">Architecture</a></li>
+<li><a href="/catalog/arts/dance">Dance</a></li>
+<li><a href="/catalog/arts/design">Design</a></li>
+<li><a href="/catalog/arts/experimentalalternative-media">Experimental/Alternative Media</a></li>
+<li><a href="/catalog/arts/fashion">Fashion</a></li>
+<li><a href="/catalog/arts/literature">Literature</a></li>
+<li><a href="/catalog/arts/music">Music</a></li>
+<li><a href="/catalog/arts/performance-art">Performance Art</a></li>
+<li><a href="/catalog/arts/photography">Photography</a></li>
+<li class="last"><a href="/catalog/arts/visual-art">Visual Art</a></li>
+</ul></li>
+<li><a href="/catalog/business">Business</a><ul class="menu-dropover"><li class="first"><a href="/catalog/business/career-development">Career Development</a></li>
+<li><a href="/catalog/business/business-case-studies">Business Case Studies</a></li>
+<li><a href="/catalog/business/business-skills">Business Skills</a></li>
+<li><a href="/catalog/business/economics-globalization">Economics &amp; Globalization</a></li>
+<li class="last"><a href="/catalog/business/leadership-training">Leadership Training</a></li>
+</ul></li>
+<li><a href="/catalog/education-k-12">Education (K-12)</a><ul class="menu-dropover"><li class="first"><a href="/catalog/k-12">K-12</a></li>
+<li class="last"><a href="/catalog/education-k-12/teacher-education-developme">Teacher Education Development</a></li>
+</ul></li>
+<li><a href="/catalog/global-studies-languages">Global Studies & Languages</a><ul class="menu-dropover"><li class="first"><a href="/catalog/global-studies-languages/african-studies">African Studies</a></li>
+<li><a href="/catalog/global-studies-languages/asian-middle-east">Asian &amp; Middle Eastern Studies</a></li>
+<li><a href="/catalog/global-studies-languages/australian-indige">Australian Studies</a></li>
+<li><a href="/catalog/global-studies-languages/esl-languages">ESL &amp; Languages</a></li>
+<li><a href="/catalog/global-studies-languages/europeanbaltic-st">European/Baltic Studies</a></li>
+<li><a href="/catalog/global-studies-languages/german-studies">German Studies</a></li>
+<li><a href="/catalog/global-studies-languages/indigenous-studie">Indigenous Studies</a></li>
+<li><a href="/catalog/global-studies-languages/latin-american-st">Latin American Studies</a></li>
+<li class="last"><a href="/catalog/global-studies-languages/north-american-st">North American Studies</a></li>
+</ul></li>
+<li><a href="/catalog/health">Health</a><ul class="menu-dropover"><li class="first"><a href="/catalog/health/child-health">Child Health</a></li>
+<li><a href="/catalog/health/everyday-health">Everyday Health</a></li>
+<li><a href="/catalog/health/medicine">Medicine</a></li>
+<li><a href="/catalog/health/mental-health">Mental Health</a></li>
+<li><a href="/catalog/health/midwifery">Midwifery</a></li>
+<li><a href="/catalog/health/nursing">Nursing</a></li>
+<li class="last"><a href="/catalog/health/sport-physiotherapy">Sport &amp; Physiotherapy</a></li>
+</ul></li>
+<li><a href="/catalog/media-communications">Media & Communications</a><ul class="menu-dropover"><li class="first"><a href="/catalog/media-communications/journalism">Journalism</a></li>
+<li><a href="/catalog/media-communications/marketing-advertising">Marketing, Advertising &amp; PR</a></li>
+<li class="last"><a href="/catalog/media-communications/media-studies">Media Studies</a></li>
+</ul></li>
+<li><a href="/catalog/sciences">Sciences</a><ul class="menu-dropover"><li class="first"><a href="/catalog/sciences/agriculture-geography">Agriculture &amp; Geography</a></li>
+<li><a href="/catalog/sciences/applied-science">Applied Science</a></li>
+<li><a href="/catalog/sciences/astronomy-aeronautics">Astronomy &amp; Aeronautics</a></li>
+<li><a href="/catalog/sciences/biology">Biology</a></li>
+<li><a href="/catalog/sciences/chemistry">Chemistry</a></li>
+<li><a href="/catalog/sciences/computer-science-it">Computer Science &amp; IT</a></li>
+<li><a href="/catalog/sciences/engineering">Engineering</a></li>
+<li><a href="/catalog/sciences/environmental-sciences">Environmental Sciences</a></li>
+<li><a href="/catalog/sciences/mathematics">Mathematics</a></li>
+<li class="last"><a href="/catalog/sciences/veterinary-science">Veterinary Science</a></li>
+</ul></li>
+<li><a href="/catalog/social-sciences">Social Sciences</a><ul class="menu-dropover"><li class="first"><a href="/catalog/social-sciences/anthropology">Anthropology</a></li>
+<li><a href="/catalog/social-sciences/gender-studies">Gender Studies</a></li>
+<li><a href="/catalog/social-sciences/history-ancient">History - Ancient</a></li>
+<li><a href="/catalog/social-sciences/history-military">History - Military</a></li>
+<li><a href="/catalog/social-sciences/history-modern">History - Modern</a></li>
+<li><a href="/catalog/social-sciences/human-rights">Human Rights</a></li>
+<li><a href="/catalog/social-sciences/jewish-studies">Jewish Studies</a></li>
+<li><a href="/catalog/social-sciences/law-criminal-justice">Law &amp; Criminal Justice</a></li>
+<li><a href="/catalog/social-sciences/lgbt">LGBT</a></li>
+<li><a href="/catalog/social-sciences/politics-international-aff">Politics &amp; International Affairs</a></li>
+<li><a href="/catalog/social-sciences/psychology">Psychology</a></li>
+<li><a href="/catalog/social-sciences/race-class-studies">Race &amp; Class Studies</a></li>
+<li><a href="/catalog/social-sciences/religion-philosophy">Religion &amp; Philosophy</a></li>
+<li class="last"><a href="/catalog/social-sciences/sociology">Sociology</a></li>
+</ul></li>
+<li class="last"><a href="/catalog/technical-training">Technical Training</a><ul class="menu-dropover"><li class="first"><a href="/catalog/technical-training/food-technology">Food Technology</a></li>
+<li><a href="/catalog/technical-training/hair-beauty">Hair &amp; Beauty</a></li>
+<li><a href="/catalog/technical-training/health-safety">Health &amp; Safety</a></li>
+<li><a href="/catalog/technical-training/hospitality-tourism">Hospitality &amp; Tourism</a></li>
+<li><a href="/catalog/technical-training/library-information-man">Library &amp; Information Management</a></li>
+<li class="last"><a href="/catalog/technical-training/technical-expertise">Technical Expertise</a></li>
+</ul></li>
+</ul>
+            </li>
+    
+        <li class='togglemenu-across hidden-phone search-form'>
+          <form action="/contact"  accept-charset="UTF-8" method="post" id="ks-solrsearch-search-box" class="searchbox">
+<div><a href="#" class="tthover search-tips" data-title="&lt;h4&gt;Search Tips&lt;/h4&gt;
+                  &lt;ol&gt;
+                    &lt;li&gt;To look for an exact title or phrase, put your search terms in quotation marks (e.g. &quot;Killing Us Softly&quot;).&lt;/li&gt;
+                    &lt;li&gt;Include &quot;AND&quot; between search terms to view results that must contain both words (not just either word).&lt;/li&gt;
+                    &lt;li&gt;Having searched for keywords, use the filters of the search results page to narrow your search (by category, producer, year of production, etc)&lt;/li&gt;
+                  &lt;/ol&gt;">Tips</a><div class="box"><input type="image" name="submit" value="Search" id="edit-submit-2"  class="form-submit" src="/images/search_icon2.png" />
+<div class="form-item" id="edit-search-wrapper">
+ <input type="text" maxlength="128" name="search" id="edit-search" size="60" value="" placeholder="What do you want to watch?" class="form-text search-query input-large" autocomplete="off" />
+</div>
+</div><input type="hidden" name="form_build_id" id="form-qVTSQp0Dyb5OW-JF6my2LE-6458PntDqvQFAwjXsS1A" value="form-qVTSQp0Dyb5OW-JF6my2LE-6458PntDqvQFAwjXsS1A"  />
+<input type="hidden" name="form_id" id="edit-ks-solrsearch-search-box" value="ks_solrsearch_search_box"  />
+
+</div></form>
+
+        </li>
+  
+
+            </ul>
+            <div class='clearfix'></div>
+          </div>
+
+          
+        <div class='nested-menu-mobile visible-phone'>
+          
+        <div class='panel-group nesting-level-1' id='nested-menu-8c6b3fa3485e22acb16f899c473a1d48'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-8c6b3fa3485e22acb16f899c473a1d48' href='#browse-subjects-8c6b3fa3485e22acb16f899c473a1d48' class='collapsed'>
+                  Browse Subjects
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='browse-subjects-8c6b3fa3485e22acb16f899c473a1d48' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+        <div class='panel-group nesting-level-2' id='nested-menu-82e25d21173de191e370c2c9997c7d65'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-82e25d21173de191e370c2c9997c7d65' href='#film-popular-82e25d21173de191e370c2c9997c7d65' class='collapsed'>
+                  Film & Popular
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='film-popular-82e25d21173de191e370c2c9997c7d65' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/film-popular/documentaries">Documentaries</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/film-popular/early-film">Early Film</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/film-popular/film-studies">Film Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/film-popular/foreign-language-film">Foreign Language Film</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/film-popular/movies">Movies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/film-popular/tv-series">TV Series</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/film-popular/staff-picks">Staff Picks</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-c191b21f9e179315c9d8939424141901'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-c191b21f9e179315c9d8939424141901' href='#the-arts-c191b21f9e179315c9d8939424141901' class='collapsed'>
+                  The Arts
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='the-arts-c191b21f9e179315c9d8939424141901' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/architecture">Architecture</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/dance">Dance</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/design">Design</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/experimentalalternative-media">Experimental/Alternative Media</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/fashion">Fashion</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/literature">Literature</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/music">Music</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/performance-art">Performance Art</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/photography">Photography</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/arts/visual-art">Visual Art</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-5a1ffd8cd3c1e5c2d21e25178bb9f301'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-5a1ffd8cd3c1e5c2d21e25178bb9f301' href='#business-5a1ffd8cd3c1e5c2d21e25178bb9f301' class='collapsed'>
+                  Business
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='business-5a1ffd8cd3c1e5c2d21e25178bb9f301' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/business/career-development">Career Development</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/business/business-case-studies">Business Case Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/business/business-skills">Business Skills</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/business/economics-globalization">Economics &amp; Globalization</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/business/leadership-training">Leadership Training</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-4b02296d927b605361da572a44509a80'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-4b02296d927b605361da572a44509a80' href='#education-k-12--4b02296d927b605361da572a44509a80' class='collapsed'>
+                  Education (K-12)
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='education-k-12--4b02296d927b605361da572a44509a80' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/k-12">K-12</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/education-k-12/teacher-education-developme">Teacher Education Development</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-2de0a455985d62253bb04d9efe488ec5'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-2de0a455985d62253bb04d9efe488ec5' href='#global-studies-languages-2de0a455985d62253bb04d9efe488ec5' class='collapsed'>
+                  Global Studies & Languages
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='global-studies-languages-2de0a455985d62253bb04d9efe488ec5' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/african-studies">African Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/asian-middle-east">Asian &amp; Middle Eastern Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/australian-indige">Australian Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/esl-languages">ESL &amp; Languages</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/europeanbaltic-st">European/Baltic Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/german-studies">German Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/indigenous-studie">Indigenous Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/latin-american-st">Latin American Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/global-studies-languages/north-american-st">North American Studies</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-598101a28508b7b8f9503b223f2e3a10'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-598101a28508b7b8f9503b223f2e3a10' href='#health-598101a28508b7b8f9503b223f2e3a10' class='collapsed'>
+                  Health
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='health-598101a28508b7b8f9503b223f2e3a10' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/health/child-health">Child Health</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/health/everyday-health">Everyday Health</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/health/medicine">Medicine</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/health/mental-health">Mental Health</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/health/midwifery">Midwifery</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/health/nursing">Nursing</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/health/sport-physiotherapy">Sport &amp; Physiotherapy</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-e78e54208846ebe4a95f1fa1979ba1b0'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-e78e54208846ebe4a95f1fa1979ba1b0' href='#media-communications-e78e54208846ebe4a95f1fa1979ba1b0' class='collapsed'>
+                  Media & Communications
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='media-communications-e78e54208846ebe4a95f1fa1979ba1b0' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/media-communications/journalism">Journalism</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/media-communications/marketing-advertising">Marketing, Advertising &amp; PR</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/media-communications/media-studies">Media Studies</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-1d94572bc7e5d5634ab472966bb5661e'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-1d94572bc7e5d5634ab472966bb5661e' href='#sciences-1d94572bc7e5d5634ab472966bb5661e' class='collapsed'>
+                  Sciences
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='sciences-1d94572bc7e5d5634ab472966bb5661e' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/agriculture-geography">Agriculture &amp; Geography</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/applied-science">Applied Science</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/astronomy-aeronautics">Astronomy &amp; Aeronautics</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/biology">Biology</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/chemistry">Chemistry</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/computer-science-it">Computer Science &amp; IT</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/engineering">Engineering</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/environmental-sciences">Environmental Sciences</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/mathematics">Mathematics</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/sciences/veterinary-science">Veterinary Science</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-78aecbea6d2a9323fcd3e51573642191'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-78aecbea6d2a9323fcd3e51573642191' href='#social-sciences-78aecbea6d2a9323fcd3e51573642191' class='collapsed'>
+                  Social Sciences
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='social-sciences-78aecbea6d2a9323fcd3e51573642191' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/anthropology">Anthropology</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/gender-studies">Gender Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/history-ancient">History - Ancient</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/history-military">History - Military</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/history-modern">History - Modern</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/human-rights">Human Rights</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/jewish-studies">Jewish Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/law-criminal-justice">Law &amp; Criminal Justice</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/lgbt">LGBT</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/politics-international-aff">Politics &amp; International Affairs</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/psychology">Psychology</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/race-class-studies">Race &amp; Class Studies</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/religion-philosophy">Religion &amp; Philosophy</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/social-sciences/sociology">Sociology</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        <div class='panel-group nesting-level-2' id='nested-menu-f76a061037b1b7d2f86348f50ee813de'>
+          <div class='panel panel-default'>
+            <div class='panel-heading'>
+              <h4 class='panel-title'>
+                <a data-toggle='collapse' data-parent='#nested-menu-f76a061037b1b7d2f86348f50ee813de' href='#technical-training-f76a061037b1b7d2f86348f50ee813de' class='collapsed'>
+                  Technical Training
+                  <span class='open-close-arrow-container'><span class='open-close-arrow'></span></span>
+                 </a>
+              </h4>
+            </div>
+            <div id='technical-training-f76a061037b1b7d2f86348f50ee813de' class='panel-collapse collapse out'>
+              <div class='panel-body'>
+                <div class='panel'>
+
+                  
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/technical-training/food-technology">Food Technology</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/technical-training/hair-beauty">Hair &amp; Beauty</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/technical-training/health-safety">Health &amp; Safety</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/technical-training/hospitality-tourism">Hospitality &amp; Tourism</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/technical-training/library-information-man">Library &amp; Information Management</a>
+                  </h5>
+                </div>
+                <div class='panel-heading store-leaf'>
+                  <h5>
+                    <a href="/catalog/technical-training/technical-expertise">Technical Expertise</a>
+                  </h5>
+                </div>
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      
+        </div>
+      
+
+        </div>
+      
+
+                        </div>
+                        
+
+  
+
+           </div>
+
+          <div class="container">
+        <div id='breadcrumb'><div class="breadcrumb"><a href="/catalog/media-communications">Media &amp; Communications</a> » <a href="/catalog/media-communications/media-studies">Media Studies</a> <a href="#" class="show-more">&nbsp; show more</a></div><div class="breadcrumb"><a href="/catalog/film-popular">Film &amp; Popular</a> » <a href="/catalog/film-popular/film-studies">Film Studies</a></div></div>      </div>
+    
+    
+    
+    <div id='content-area'>
+      <div class='container'><noscript>
+              
+    <div class="mascot-msg mascot-msg no-js">
+      <img src="/images/owls/owl-default.png" class="mascot" />
+      <div class="content">
+        Please enable Javascript to use Kanopy! <a href="http://javascripton.com/"><i class="fa fa-arrow-right"></i> Instructions here</a>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  
+            </noscript><div class="node node node-type-video-page build-mode-full" id="node-76668">
+
+  <div class="row">
+
+    <div class="span9">
+
+      <div class="video-main-title">
+        <h1 class="video-title">
+          Louis Theroux - Twilight of the Porn Star                    <span class='author'>from <a href="/catalog/231">BBCActive</a></span>
+        </h1>
+      </div>
+
+      
+        
+
+      
+
+      <div class="player-wrapper">
+
+        <video id="player" class="video-js player playlist"
+          data-account="602036248001"
+          data-player="169923d8-d564-466d-ac79-9f5a92273b0f"
+          data-embed="default"
+          data-video-id=""
+
+          controls></video>
+
+        <script src="//players.brightcove.net/602036248001/169923d8-d564-466d-ac79-9f5a92273b0f_default/index.min.js"></script>
+
+        <div class="placeholder">
+          <a href="#" class="control-load-player">
+            <img src="/sites/default/files/videoassets/3032894705001.jpg" alt="Play the video"/>
+            <span></span>
+          </a>
+        </div>
+
+        <div id="svvid" style="display: none">4240579</div>
+
+      </div>
+
+      <script src="/sites/all/modules/ks/ks_playlist/js/videojs-markers.js"></script>
+      <script src="/sites/all/modules/ks/ks.videojs.main.js"></script>
+      <script src="/sites/all/modules/ks/ks_caption/js/videojs-ks-caption.js"></script>
+      <script src="/sites/all/modules/ks/ks_playlist/js/videojs-ks-markers.js"></script>
+  
+        <div class="assets">
+
+          <div class="asset" data-index="0" data-nid="76668" data-title="Louis Theroux - Twilight of the Porn Star" >
+
+          </div>
+
+        </div>
+
+      
+        
+      <div class='rate-video'>
+          <div class='content'>
+            <a href='#' class='close'><i class='fa fa-times'></i></a>
+            <div class='step-rating'>
+              <h3>Rate this video for better recommendations:</h3>
+              <form action="/node/76668"  accept-charset="UTF-8" method="post" id="fivestar-form-node-76668" class="fivestar-widget">
+<div><div class="fivestar-form-vote-76668 clear-block"><input type="hidden" name="content_type" id="edit-content-type" value="node"  />
+<input type="hidden" name="content_id" id="edit-content-id" value="76668"  />
+<div class="fivestar-form-item  fivestar-user-text fivestar-smart-stars fivestar-average-stars fivestar-labels-hover"><div class="form-item" id="edit-vote-wrapper">
+ <label for="edit-vote">Average: </label>
+ <input type="hidden" name="vote_count" id="edit-vote-count" value="0"  />
+<input type="hidden" name="vote_average" id="edit-vote-average" value="0"  />
+<input type="hidden" name="auto_submit_path" id="edit-auto-submit-path" value="/fivestar/vote/node/76668/vote"  class="fivestar-path" />
+<select name="vote" class="form-select" id="edit-vote-1" ><option value="-">Select rating</option><option value="20">Poor</option><option value="40">Okay</option><option value="60">Good</option><option value="80">Great</option><option value="100">Awesome</option></select><input type="hidden" name="auto_submit_token" id="edit-auto-submit-token" value="251d128c4c2e3f3956fa49f0e1ae791f"  class="fivestar-token" />
+
+ <div class="description"><div class="fivestar-summary fivestar-summary-user-count fivestar-feedback-enabled"><span class="empty">Rate this video for better recommendations</span></div></div>
+</div>
+</div><input type="hidden" name="destination" id="edit-destination" value="node/76668"  />
+<input type="submit" name="op" id="edit-fivestar-submit" value="Rate"  class="form-submit fivestar-submit" />
+<input type="hidden" name="form_build_id" id="form-UWHQT7ZAqtG_RaW6Oz-BCcTcHF7_PjPUi8u0sni71v8" value="form-UWHQT7ZAqtG_RaW6Oz-BCcTcHF7_PjPUi8u0sni71v8"  />
+<input type="hidden" name="form_id" id="edit-fivestar-form-node-76668" value="fivestar_form_node_76668"  />
+</div>
+</div></form>
+
+            </div>
+            <div class='step-comment'>
+              <h3>Tell us what you liked or didn't like:</h3>
+              <form action="/node/76668"  accept-charset="UTF-8" method="post" id="ks-com-comment-form-1" class="collapsed ks-com-comment-form">
+<div> <div class="row">
+                  <div class="span1">
+                  
+      <div class="user-info">
+      <div class="picture rounded-corners">
+  <div><img src="/images/owl_eyes_anon.png" alt="Anonymous picture" title="Anonymous picture"></div>  </div>
+
+
+      </div>
+      
+                  </div>
+                  <div class="span6">
+                  <div class="form-item" id="edit-comment-1-wrapper">
+ <label for="edit-comment-1">Post a review: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="2" name="comment" id="edit-comment-1"  placeholder="Share your thoughts" class="form-textarea required"></textarea>
+</div>
+
+                  </div>
+                  <div class="collapsible">
+                    <div class="span2 offset1">
+                      <div class="sign-options">Sign in with</div>
+                        <a href="/user/login" class="login login-modal" data-reason="Sign in before posting your comment">
+      <img src="/images/Facebook.png" style="height:32px;width:32px">
+      <img src="/images/Google.png" style="height:32px;width:32px">
+      <img src="/images/Kanopy.png" style="height:32px;width:32px">
+    </a>
+                    </div>
+                    <div class="span3">
+                      <div class="sign-options">Or post anonymously</div>
+                      <table>
+                        <tr>
+                          <td><div class="form-item" id="edit-name-1-wrapper">
+ <input type="text" maxlength="128" name="name" id="edit-name-1" size="60" value="" placeholder="Your name (optional)" class="form-text" />
+</div>
+</td>
+                          <td><input type="submit" name="op" id="edit-submit-1" value="Post"  class="form-submit" />
+</td>
+                        </tr>
+                      </table>
+                    </div>
+                  </div>
+                  <input type="hidden" name="nid" id="edit-nid-1" value="76668"  />
+<input type="hidden" name="form_build_id" id="form-AvemiKMaywRygHB2lXpEycSJLvuFKXdOvqcI-LComaU" value="form-AvemiKMaywRygHB2lXpEycSJLvuFKXdOvqcI-LComaU"  />
+<input type="hidden" name="form_id" id="edit-ks-com-comment-form-1" value="ks_com_comment_form"  />
+
+                </div>
+               
+</div></form>
+
+              <p class='small'></p>
+            </div>
+          </div>
+          <div class='clearfix'></div>
+      </div>
+        <div class="video-data">
+
+        
+        <ul class="nav nav-pills" id="video-tabs">
+          <li class="active">
+            <a href="#tab-desc" class="kevent" data-toggle="tab" data-category="tab" data-action="browse" data-label="tab-synopsis">
+              <i class="fa fa-align-justify"></i>Synopsis            </a>
+          </li>
+
+          
+            <li>
+              <a href="#" class="login-modal tthover" data-title="Create clip/playlist" data-reason="Sign in to add this video to your playlist(s)"                   data-toggle="tab" class="kevent" data-category="tab" data-action="browse" data-label="tab-playlist">
+                <i class="fa fa-plus"></i>Create Clip/Playlist              </a>
+            </li>
+
+            <li>
+              <a href="#tab-share" class="kevent" data-toggle="tab" data-category="tab" data-action="browse" data-label="tab-share">
+                <i class="fa fa-share-alt"></i>Share/Embed              </a>
+            </li>
+
+            <li style="display: none">
+              <a href="#tab-transcript" class="kevent" data-toggle="tab" data-category="tab" data-action="browse" data-label="tab-transcript">
+                <i class="fa fa-list"></i>Transcript              </a>
+            </li>
+
+            <li><button class='btn login-modal tthover' type='button' data-title='Sign in to add this video to your watch list' data-reason='Sign in to add this video to your watch list'><i class='fa fa-clock-o'></i> <span class='text'>Add to watch list</span></button></li>
+
+          
+          <li class="quick-share"><div class="lrsharecontainer_quick"></div></li>
+
+          <li class='pull-right report-problem'>
+            <a href="/report-contact?nid=76668">
+              <i class="fa fa-flag tthover" data-title="Report a problem"></i>
+            </a>
+          </li>
+
+        </ul>
+
+        <div class="tab-content">
+          <div class="tab-pane active" id="tab-desc">
+
+            
+              <div class="see-more">
+                <div class="collapsed" style="max-height:100px;">
+                  <p><strong>A risque business </strong></p>
+<p>In the 1990s, Louis spent time at the hub of America's adult entertainment industry - the San Fernando Valley in California - to find out if being a male porn star really was one of the best jobs a man could have and to explore the psychological effects of performing one of the most intimate acts of human behaviour in public and on film.</p>
+<p>Now he goes back and finds that 15 years on everything has changed. Pornography is far more mainstream, the rapid expansion of the internet means that an industrial quantity of porn is available at the click of a mouse, much of it free of charge, and new technology means that performers can upload their own films and have direct contact with their fans.</p>
+<p>Louis catches up with some of the people he met before to see how they have fared over the years, and finds one has fled, one was sent to prison and another killed himself. He also meets some of the newer performers and finds out how they cope in a business that offers less money, more insecurity and more stress than ever before.</p>
+
+                </div>
+                <div class="more" title="Click to see more details">
+                  Read More
+                </div>
+              </div>
+    
+            
+            <hr>
+
+            <div class="features">
+                              <form action="/node/76668"  accept-charset="UTF-8" method="post" id="fivestar-form-node-76668" class="fivestar-widget">
+<div><div class="fivestar-form-vote-76668 clear-block"><input type="hidden" name="content_type" id="edit-content-type" value="node"  />
+<input type="hidden" name="content_id" id="edit-content-id" value="76668"  />
+<div class="fivestar-form-item  fivestar-user-text fivestar-smart-stars fivestar-average-stars fivestar-labels-hover"><div class="form-item" id="edit-vote-wrapper">
+ <label for="edit-vote">Average: </label>
+ <input type="hidden" name="vote_count" id="edit-vote-count" value="0"  />
+<input type="hidden" name="vote_average" id="edit-vote-average" value="0"  />
+<input type="hidden" name="auto_submit_path" id="edit-auto-submit-path" value="/fivestar/vote/node/76668/vote"  class="fivestar-path" />
+<select name="vote" class="form-select" id="edit-vote-1" ><option value="-">Select rating</option><option value="20">Poor</option><option value="40">Okay</option><option value="60">Good</option><option value="80">Great</option><option value="100">Awesome</option></select><input type="hidden" name="auto_submit_token" id="edit-auto-submit-token" value="251d128c4c2e3f3956fa49f0e1ae791f"  class="fivestar-token" />
+
+ <div class="description"><div class="fivestar-summary fivestar-summary-user-count fivestar-feedback-enabled"><span class="empty">Rate this video for better recommendations</span></div></div>
+</div>
+</div><input type="hidden" name="destination" id="edit-destination" value="node/76668"  />
+<input type="submit" name="op" id="edit-fivestar-submit" value="Rate"  class="form-submit fivestar-submit" />
+<input type="hidden" name="form_build_id" id="form-UWHQT7ZAqtG_RaW6Oz-BCcTcHF7_PjPUi8u0sni71v8" value="form-UWHQT7ZAqtG_RaW6Oz-BCcTcHF7_PjPUi8u0sni71v8"  />
+<input type="hidden" name="form_id" id="edit-fivestar-form-node-76668" value="fivestar_form_node_76668"  />
+</div>
+</div></form>
+                            <ul class="unstyled"><li class="first"><span class="title">60 mins, 2012</span></li>
+<li class="last"><span class="title">Languages</span> <a href="/category/languages/english">English</a></li>
+</ul>            </div>
+
+          </div>
+
+          <div class="tab-pane" id="tab-add-to">
+
+            <div class="add-to-status pull-right">--</div>
+            <p class="no-playlist-msg hidden">To create a clip or to add this video to a playlist, you need to first create a new playlist below.</p>
+            <p class="yes-playlist-msg hidden">To create a clip, add this video to an existing playlist or create a new playlist and click on "Edit playlist"</p>
+            <div class="heromsg-wrapper"></div>
+            <div class="add-to-existing-playlist">
+              <h3>Existing playlists: <a href='#' class='interactive-tutorial hidden-phone' data-tutorial-key='add-to-playlist'><i class='fa fa-question-circle'></i> </a></i></h3>
+              <div class="wrapper">
+                <i class="fa fa-circle-o-notch fa-spin"></i> &nbsp; Loading your playlists...
+              </div>
+            </div>
+            <div class="add-to-new-playlist">
+              <h3>Create new playlist:</h3>
+              <div class="wrapper">
+                <input type="text" class="new-playlist-label" placeholder="Title of your playlist"/>
+                <input type="submit" value="Create" disabled="disabled"/>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="tab-pane" id="tab-share">
+             <div class="share-embed-wizard">
+              <ul class="nav nav-tabs" id="share-tabs-76668">
+                <li class="active">
+                  <a href="#tab-share-76668" data-toggle="tab" class="kevent" data-category="tab" data-action="browse" data-label="tab-share_share">Share</a>
+                </li>
+                <li>
+                  <a href="#tab-embed-76668" data-toggle="tab" class="kevent" data-category="tab" data-action="browse" data-label="tab-share_embed">Embed</a>
+                </li>
+              </ul>
+
+              <div class="tab-content">
+                <div class="tab-pane share-wizard active" id="tab-share-76668">
+                  <h4>Social media</h4>
+
+                  <div class="lrsharecontainer"></div>
+
+                  <br>
+                  <h4>Share link</h4>
+                  <input type="text" value="http://fau.kanopystreaming.com/video/louis-theroux-twilight-porn-star" />
+                </div>
+
+                <div class="tab-pane embed-wizard" id="tab-embed-76668" data-embed-url="http://fau.kanopystreaming.com/embed/76668">
+                  <h4>Embed this video</h4>
+                  <div>
+                    <textarea class="embed-wizard-code"></textarea>
+                  </div>
+                  <br>
+                  <div class="options">
+                    <h4><a href="#" onclick="$j('.collapsible', $(this).closest('.options')).slideToggle(); return false;">Options</a></h4>
+                    <div class="collapsible" style="display: none">
+                      <label for="embed-option-size-76668">Player size:</label>
+                      <select id="embed-option-size-76668" class="embed-option-size">
+                        <option value='small' data-width='320' data-height='195' >small 320 x 195</option><option value='medium' data-width='480' data-height='292' >medium 480 x 292</option><option value='large' data-width='640' data-height='390' >large 640 x 390</option><option value='jumbo' data-width='800' data-height='487' >jumbo 800 x 487</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="clearfix"></div>
+            </div>          </div>
+
+          <div class="tab-pane" id="tab-transcript">
+            <div id="ks-caption-activetranscript">
+              <div class="wrapper">
+                <div style='text-align: center'>
+                  <img src='/images/kloading.gif' alt='' />
+                  <br>
+                  Loading...
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <br>
+
+                  <div class='row'>
+            <div class='span9'>
+              
+        <div class='video-shelf-title'>
+          
+          <h3>People who watched this video also watched</h3>
+          <div class='divider'></div>
+        </div>
+        <div class='slider video-shelf' data-url='/ks-shelves/auto-recommendations-76668/json' data-page='1'>
+          
+                <div class='item item-small'>
+                  <a href="/video/louis-theroux-miami-mega-jail-0"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/90359"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3033177129001.jpg" /><span class="tags"><span class="media-type">playlist</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Louis Theroux: Miami Mega Jail</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/louis-theroux-under-knife"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/90295"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3033130831001.jpg" /><span class="tags"><span class="running-time">59 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Louis Theroux: Under the Knife</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/louis-theroux-americas-most-hated-family"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/90293"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3033129307001.jpg" /><span class="tags"><span class="running-time">59 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Louis Theroux: America's Most Hated Family</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/mask-you-live"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/141117"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4147608938001.jpg" /><span class="tags"><span class="running-time">91 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">The Mask You Live In</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/douglas-fairbanks-modern-musketeer-collection-eleven-modern-films-volume-3"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/161449"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4474244166001.jpg" /><span class="tags"><span class="running-time">58 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Flirting With Fate</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/orlac-special-features-and-extras"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/157406"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4401308368001.jpg" /><span class="tags"><span class="media-type">playlist</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">The Hands of Orlac Special Features and Extras</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/sacred-places"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/156894"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4387595911001.jpg" /><span class="tags"><span class="running-time">71 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Sacred Places</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/bridge-1"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/154492"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4367688944001.jpg" /><span class="tags"><span class="running-time">104 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">The Bridge</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/danton"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/154490"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4343319727001.jpg" /><span class="tags"><span class="running-time">137 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Danton</span></span></span></a>
+                </div>
+                
+                <div class='item item-small'>
+                  <a href="/video/trafic"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/154488"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4381667909001.jpg" /><span class="tags"><span class="running-time">98 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Trafic</span></span></span></a>
+                </div>
+                
+        </div>
+              </div>
+          </div>
+          <br>
+        
+                  <div class='row'>
+            <div class='span9'>
+                          </div>
+          </div>
+          <br>
+        
+                    <div class="hidden-phone">
+                                      <h2>Comments</h2><form action="/node/76668"  accept-charset="UTF-8" method="post" id="ks-com-comment-form" class="collapsed ks-com-comment-form">
+<div> <div class="row">
+                  <div class="span1">
+                  
+      <div class="user-info">
+      <div class="picture rounded-corners">
+  <div><img src="/images/owl_eyes_anon.png" alt="Anonymous picture" title="Anonymous picture"></div>  </div>
+
+
+      </div>
+      
+                  </div>
+                  <div class="span8">
+                  <div class="form-item" id="edit-comment-wrapper">
+ <label for="edit-comment">Post a review: <span class="form-required" title="This field is required.">*</span></label>
+ <textarea cols="60" rows="2" name="comment" id="edit-comment"  placeholder="Share your thoughts" class="form-textarea required"></textarea>
+</div>
+
+                  </div>
+                  <div class="collapsible">
+                    <div class="span3 offset1">
+                      <div class="sign-options">Sign in with</div>
+                        <a href="/user/login" class="login login-modal" data-reason="Sign in before posting your comment">
+      <img src="/images/Facebook.png" style="height:32px;width:32px">
+      <img src="/images/Google.png" style="height:32px;width:32px">
+      <img src="/images/Kanopy.png" style="height:32px;width:32px">
+    </a>
+                    </div>
+                    <div class="span4">
+                      <div class="sign-options">Or post anonymously</div>
+                      <table>
+                        <tr>
+                          <td><div class="form-item" id="edit-name-wrapper">
+ <input type="text" maxlength="128" name="name" id="edit-name" size="60" value="" placeholder="Your name (optional)" class="form-text" />
+</div>
+</td>
+                          <td><input type="submit" name="op" id="edit-submit" value="Post"  class="form-submit" />
+</td>
+                        </tr>
+                      </table>
+                    </div>
+                  </div>
+                  <input type="hidden" name="nid" id="edit-nid" value="76668"  />
+<input type="hidden" name="form_build_id" id="form-OW_pQD4ibFLh2bViwga3-GHU3XT8sZP_5IBELTJkqkc" value="form-OW_pQD4ibFLh2bViwga3-GHU3XT8sZP_5IBELTJkqkc"  />
+<input type="hidden" name="form_id" id="edit-ks-com-comment-form" value="ks_com_comment_form"  />
+
+                </div>
+               
+</div></form>
+<div id="comments">Be the first to comment.</div></div>        
+      </div>
+
+    </div>
+
+    <div class="span3">
+
+               <div class="mlt-container">
+                  <div class="cool-title" title="BBC Secondary KPlay Collection">Next in the series</div>
+              <ul><li class="first last"><a href="/video/egypt-children-revolution-world"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/76688"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/2193789036001.jpg" /><span class="tags"><span class="running-time">53 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Egypt: Children of the Revolution - This World</span></span></span></a></li>
+</ul></div>        <hr>
+      
+      <div class='mlt-container'><div class='cool-title'>Watch related videos</div><ul class='unstyled thumbnails'><li><a href="/video/price-pleasure"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/41603"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/1456964122001.jpg" /><span class="tags"><span class="running-time">57 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">The Price of Pleasure (Edited Version)</span></span></span></a></li><li class='span3'><a href="/video/mutantes-punk-porn-feminism"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/114358"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3507577784001.jpg" /><span class="tags"><span class="running-time">92 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Mutantes: Punk Porn Feminism</span></span></span></a></li><li class='span3'><a href="/video/pornland-how-porn-industry-has-hijacked-our-sexuality"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/127015"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3767648916001.jpg" /><span class="tags"><span class="running-time">36 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Pornland: How the Porn Industry Has Hijacked Our Sexuality</span></span></span></a></li><li class='span3'><a href="/video/linda-lovelace-loose-lipsher-last-interview"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/125007"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3747645455001.jpg" /><span class="tags"><span class="running-time">93 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Linda Lovelace - Loose Lips:Her Last Interview</span></span></span></a></li><li class='span3'><a href="/video/kuroneko"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/127230"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3788154567001.jpg" /><span class="tags"><span class="running-time">100 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Kuroneko</span></span></span></a></li><li class='span3'><a href="/video/blacking-hip-hops-remix-race-and-identity"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/62794"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/1242417777001.jpg" /><span class="tags"><span class="running-time">57 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Blacking Up: Hip-Hop's Remix of Race And Identity</span></span></span></a></li><li class='span3'><a href="/video/ocean-waif"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/114688"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3517867188001.jpg" /><span class="tags"><span class="running-time">63 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">The Ocean Waif</span></span></span></a></li><li class='span3'><a href="/video/chaplin-keystone-0"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/108106"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/2924969032001.jpg" /><span class="tags"><span class="media-type">collection</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Chaplin at Keystone</span></span></span></a></li><li class='span3'><a href="/video/il-sorpasso"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/127234"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3788159107001.jpg" /><span class="tags"><span class="running-time">106 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Il Sorpasso</span></span></span></a></li><li class='span3'><a href="/video/greenwich-village-music-defined-generation"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/114102"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3528582928001.jpg" /><span class="tags"><span class="running-time">93 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Greenwich Village: Music That Defined A Generation</span></span></span></a></li><li class='span3'><a href="/video/beloved-rogue"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/113772"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/3449562138001.jpg" /><span class="tags"><span class="running-time">102 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">Beloved Rogue</span></span></span></a></li><li class='span3'><a href="/video/true-heart-susie-hoodoo-anne"><span class="video-tooltip  video-thumbnail vp_thumbnail_small" data-tooltip-url="/tooltip/161461"><span class="img-container show-play-bt"><img  src="http://fau.kanopystreaming.com/sites/default/files/imagecache/vp_thumbnail_small/videoassets/4447704154001.jpg" /><span class="tags"><span class="running-time">152 m</span></span><span class="play"></span></span><span class="caption"><span class="video-title ellipsis-2">True Heart Susie and Hoodoo Anne</span></span></span></a></li></ul>  <div class='loadmore'>
+                      <a href='#' data-p='1' data-source='/s/mlt/76668/videos'>
+                        Show more
+                        <b class='caret'></b>
+                      </a>
+                    </div></div>    </div>
+
+  </div>
+
+</div> <!-- /node-->
+</div>    </div>
+
+    <div id="footer">
+      <div class="stripe-divider"></div>
+              <div class="footer-top">
+              <div class="container">
+                <div class="logo-footer hidden-phone">
+                  <img src="/sites/all/themes/ksresp/images/footer-kanopy-logo-gray.png" title="">
+                </div>
+                <ul class="social unstyled inline">
+                  <li>
+                    <a href="https://www.facebook.com/KanopyStreaming">
+                      <i class="fa fa-facebook"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://twitter.com/KanopyStreaming">
+                      <i class="fa fa-twitter"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <div class="footer-nav-phone visible-phone">
+              <ul class="nav-node-menu">
+                <li class="navigation-item"><a href="/help">Help</a></li><li class="navigation-item"><a href="/wall">Video wall</a></li><li class="navigation-item"><a href="/catalog">All videos</a></li><li class="navigation-item"><a href="/blog">Our Blog</a>
+                 </li>
+              </ul>
+            </div>
+
+            <div class="footer-nav-desktop hidden-phone">
+              <div class="container">
+                <div class="row-fluid footer-menu">
+                  <ul class="unstyled navigation-sublist">
+                   <li class="navigation-item"><a href="/help">Help</a></li><li class="navigation-item"><a href="/wall">Video wall</a></li><li class="navigation-item"><a href="/catalog">All videos</a></li><li class="navigation-item"><a href="/blog">Our Blog</a>
+                   </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <ul class="unstyled navigation-sublist legal">
+              <li class="navigation-item">
+                <a href="/terms">Terms of Service</a>
+              </li>
+              <li class="navigation-item">
+                <a href="/privacy">Privacy Policy</a>
+              </li>
+              <li class="navigation-item">
+                <a href="/aup">Acceptable Use</a>
+              </li>
+            </ul>
+             </div>
+
+    <div id='login-modal' class='modal hide fade' role='dialog' aria-hidden='true'>
+      <div class='modal-header'>
+        <button type='button' class='close' data-dismiss='modal' aria-hidden='true'>×</button>
+        <h3>Sign in</h3>
+      </div>
+      <div class='modal-body'>
+        <div class='reason'></div>
+        <div class='modal-body-container'>
+          <form action="/node/76668"  accept-charset="UTF-8" method="post" id="user-login" class="sign-in-form">
+<div> <div class="terms">
+                  By continuing or signing in, you agree to Kanopy's <a href="/terms" target="_blank">Terms of Service</a>
+                </div><div class="form-item">
+     <script type="text/javascript"> $LRIC.util.ready(function() {
+      var lr_options = {};
+      lr_options.apikey = "a76b006b-9b32-45fc-9ac5-9a4487ed4ce4";
+      lr_options.templatename = "loginradiuscustome_tmpl";
+      $LRIC.renderInterface("interface_container", lr_options);
+      // Adding the Kanopy login option
+      setTimeout(function(){
+          $('.interface_container').append('<a href="javascript:void()" class="toggle-kanopy-login"><img src="/images/Kanopy.png" title="Sign in with Kanopy" alt="Kanopy" style="height:64px;width:64px"></a>');
+        }, 1000);
+      });
+    </script>
+    <script type="text/html" id="loginradiuscustome_tmpl">
+      &nbsp;
+      <a href="javascript:void()" onClick="return $LRIC.util.openWindow('<%=Endpoint%>&is_access_token=true&callback=http://fau.kanopystreaming.com/');"><img src="/images/<%=Name%>.png" title="Sign in with <%=Name%>" alt="<%=Name%>" style="height:64px;width:64px"/></a>
+      &nbsp;
+      &nbsp;
+    </script>
+    <script type="text/javascript">
+      LoginRadiusSDK.setLoginCallback(function() {
+        var token = LoginRadiusSDK.getToken();
+        var form = document.createElement('form');
+        form.action = "http://fau.kanopystreaming.com/socialloginandsocialshare/token_handler?destination=node%2F76668";
+        form.method = 'POST';
+
+        var hiddenToken = document.createElement('input');
+        hiddenToken.type = 'hidden';
+        hiddenToken.value = token;
+        hiddenToken.name = 'token';
+        form.appendChild(hiddenToken);
+
+        document.body.appendChild(form);
+        form.submit();
+      });
+    </script>
+      <div class="interface_container"></div>
+  
+</div>
+
+              <a href="#" class="toggle-kanopy-login">Or sign in with your email/username</a>
+              <div class="kanopy-login">
+                <div class="login-status"></div>
+                <div class="form-item" id="edit-name-2-wrapper">
+ <input type="text" maxlength="60" name="name" id="edit-name-2" size="60" value="" placeholder="Email or username" class="form-text required" />
+</div>
+
+                <div class="form-item" id="edit-pass-wrapper">
+ <input type="password" name="pass" id="edit-pass"  maxlength="128"  size="60"  placeholder="Password" class="form-text required" />
+</div>
+
+                <input type="submit" name="op" id="edit-submit-4" value="Sign in"  class="form-submit" />
+
+                <br>
+                <a href="/user/password?destination=node%2F76668" class="small">I forgot my password</a>
+              </div>
+
+              <p class="webshop-only">Students/Professors, please sign in from your institution's video portal or <a href="/contact">contact us</a> for instructions</p>
+
+              <div class="bottom-links">
+                <a href="/user/register?destination=node%2F76668">Sign up with your email address in seconds</a>
+              </div>
+              <input type="hidden" name="form_build_id" id="form-jJ8PX5so3qG2maQyC6C2MVvg-K8pqNhGUGZANiPDK8w" value="form-jJ8PX5so3qG2maQyC6C2MVvg-K8pqNhGUGZANiPDK8w"  />
+<input type="hidden" name="form_id" id="edit-user-login" value="user_login"  />
+
+</div></form>
+        </div>
+      </div>
+    </div>
+
+    
+  </body>
+</html>
