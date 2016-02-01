@@ -8,17 +8,18 @@ root = tkinter.Tk()
 root.withdraw()
 
 # kanID = '1126650'
-kanURL = 'https://www.kanopystreaming.com/s?query='
+kanURL = 'http://fau.kanopystreaming.com/node/'
 pdaSite = 'https://www.kanopystreaming.com/user/1198/pda-ng'
 pdaKanopyMarcFile = 'C:\\Users\\fenichele\\Desktop\\pdaKanopyMarcFile.mrc'
 licenseKanopyMarcFile = 'C:\\Users\\fenichele\\Desktop\\licenseKanopyMarcFile.mrc'
 
 def loadCollections():
-    collectionList = 'C:\\Users\\fenichele\\github\\KanopyCollection\\kanopy_pda_producers.txt'
+    collectionList = 'kanopy_pda_producers.txt'
 
     collections = []
     with open(collectionList, 'r') as x:
         collections = [line.strip() for line in x]
+        collections = [s.replace('Â','') for s in collections]
 
     return collections
 
@@ -27,10 +28,10 @@ def getKanHTML(kanID):
     kURL = kanURL
     kID = kanID
 
-    kURLFull = kanURL+kanID
-    print(kURLFull)
+    # kURLFull = kanURL+kanID
+    print(kanID)
 
-    r = requests.get(kURLFull)
+    r = requests.get(kanID)
     kHTML = r.text
 
     #test that we have access to video
@@ -46,28 +47,39 @@ def getKanHTML(kanID):
 
 def parseHTML(soup):
 
-    coll = None
+    collList = []
     for a in soup.find_all('div'):
-        if a.has_key('class') and a['class'][0] == 'title':
-            coll = a.text
+        if a.has_attr('class') and a['class'][0] == 'breadcrumb':
+            collList.append(a.text)
 
-    return coll
+    collList = [s.replace(' show more', '') for s in collList]
+    collList = [s.replace(' \xa0', '') for s in collList]
+
+    return collList
 
 def testKanopy(kanopyID,titCollection):
     pdaCollections = loadCollections()
 
-    collection = titCollection[titCollection.rfind('from')+5:len(titCollection)]
-    title = titCollection[:titCollection.find('from')].strip()
+    # collection = titCollection[titCollection.rfind('from')+5:len(titCollection)]
+    # title = titCollection[:titCollection.find('from')].strip()
 
     PDAgroup = None
 
-    if collection in pdaCollections:
-        PDAgroup = True
-    elif collection == 'Media Education Foundation':
-        PDAgroup = False
-    else:
-        webbrowser.open(kanURL+kanopyID, new=1)
-        PDAgroupResponse = input('Is '+titCollection+' a PDA Title? \nTrue or False')
+    unknownCollection = []
+    for collection in titCollection:
+
+        if collection in pdaCollections:
+            PDAgroup = True
+            return PDAgroup
+        elif collection == 'Media Education Foundation':
+            PDAgroup = False
+            return PDAgroup
+        else:
+            unknownCollection.append(kanopyID)
+
+    for kanopyID in unknownCollection:
+        webbrowser.open(kanopyID, new=1)
+        PDAgroupResponse = input('Is '+kanopyID+' a PDA Title? \nTrue or False')
         if PDAgroupResponse in(True, 'true', 't', 'T', 'True'):
             PDAgroup = True
         else:
@@ -87,8 +99,8 @@ def runKanopy(kanID):
     titCollection = parseHTML(soup)
 
     print(titCollection)
-    collection = titCollection[titCollection.rfind('from')+5:len(titCollection)]
-    title = titCollection[:titCollection.find('from')].strip()
+    # collection = titCollection[titCollection.rfind('from')+5:len(titCollection)]
+    # title = titCollection[:titCollection.find('from')].strip()
 
     PDAGroup = testKanopy(kanID,titCollection)
 
@@ -114,12 +126,19 @@ def openKanopyMarc():
     with open(marcFile, 'rb') as fh:
         reader = MARCReader(fh)
 
+        kanURLs = []
         for record in reader:
-            lockanID = record['001'].value()
-            lockanID = lockanID.strip('kan')
+            kU= record.get_fields('856')
+            for url in kU:
+                kanURLs.append(url['u'])
 
-            isPDA = runKanopy(lockanID)
-            print(lockanID, 'is pda:', isPDA)
+        for kanLink in kanURLs:
+            isPDA = runKanopy(kanLink)
+
+            # lockanID = record['001'].value()
+            # lockanID = lockanID.strip('kan')
+
+            print(kanLink, 'is pda:', isPDA)
 
             if isPDA is True:
                 writeToPDAFile(record,pdaKanopyMarcFile)
@@ -130,7 +149,7 @@ def openKanopyMarc():
             else:
                 "PDA is Unknown!"
 
-            print('\n')
+                print('\n')
 
 
 openKanopyMarc()
