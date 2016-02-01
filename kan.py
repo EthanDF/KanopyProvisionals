@@ -65,21 +65,13 @@ def testKanopy(kanopyID,titCollection):
 
     PDAgroup = None
 
-    unknownCollection = []
-    for collection in titCollection:
-
-        if collection in pdaCollections:
-            PDAgroup = True
-            return PDAgroup
-        elif collection == 'Media Education Foundation':
-            PDAgroup = False
-            return PDAgroup
-        else:
-            unknownCollection.append(kanopyID)
-
-    for kanopyID in unknownCollection:
+    if collection in pdaCollections:
+        PDAgroup = True
+    elif collection == 'Media Education Foundation':
+        PDAgroup = False
+    else:
         webbrowser.open(kanopyID, new=1)
-        PDAgroupResponse = input('Is '+kanopyID+' a PDA Title? \nTrue or False')
+        PDAgroupResponse = input('Is '+titCollection+' a PDA Title? \nTrue or False')
         if PDAgroupResponse in(True, 'true', 't', 'T', 'True'):
             PDAgroup = True
         else:

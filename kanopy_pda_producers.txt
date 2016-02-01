@@ -6,4 +6,10 @@ Criterion Collection/Janus Films
 Kantola Productions
 Kino Lorber
 Symptom Media
+<<<<<<< HEAD
 Film & Popular » Film Studies
+=======
+Psychotherapy.net
+Dos Vatos
+Kino Lorber Edu
+>>>>>>> 8035a99c26154d2309b4114120665cd93ca5aa99
