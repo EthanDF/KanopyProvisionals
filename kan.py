@@ -1,5 +1,7 @@
 from bs4 import BeautifulSoup
 from pymarc import *
+import urllib
+from urllib import request
 import requests
 import webbrowser
 import tkinter
@@ -45,7 +47,7 @@ def getKanHTML(kanID):
         soup = BeautifulSoup(kHTML)
         return soup
 
-def parseHTML(soup):
+def parseHTML(soup, debug):
 
     collList = []
     for a in soup.find_all('div'):
@@ -55,9 +57,22 @@ def parseHTML(soup):
     collList = [s.replace(' show more', '') for s in collList]
     collList = [s.replace(' \xa0', '') for s in collList]
 
+    tempcollList = []
+    for b in soup.find_all('h2'):
+        tempcollList.append(b)
+    t = tempcollList[0]
+    t = t.text.strip('\n').lstrip()
+    t = t[t.find('from')+5:]
+    if debug == 1:
+        print('appending t:\n'+str(t))
+    collList.append(t)
+
+    if debug == 1:
+        print(collList)
+
     return collList
 
-def testKanopy(kanopyID,titCollection):
+def testKanopy(kanopyID, titCollection, debug):
     pdaCollections = loadCollections()
 
     # collection = titCollection[titCollection.rfind('from')+5:len(titCollection)]
@@ -65,47 +80,86 @@ def testKanopy(kanopyID,titCollection):
 
     PDAgroup = None
 
-    unknownCollection = []
-    for collection in titCollection:
+    #see if the MEF is in the phrase, meaning that it firm
 
-        if collection in pdaCollections:
-            PDAgroup = True
-            return PDAgroup
-        elif collection == 'Media Education Foundation':
-            PDAgroup = False
-            return PDAgroup
-        else:
-            unknownCollection.append(kanopyID)
+    if 'Media Education Foundation' in titCollection:
+        if debug == 1:
+            print("found in Media Education Foundation\n")
+        PDAgroup = False
+        return PDAgroup
 
-    for kanopyID in unknownCollection:
-        webbrowser.open(kanopyID, new=1)
-        PDAgroupResponse = input('Is '+kanopyID+' a PDA Title? \nTrue or False')
-        if PDAgroupResponse in(True, 'true', 't', 'T', 'True'):
+    #see if phrase
+    for coll in pdaCollections:
+        if coll in titCollection:
             PDAgroup = True
-        else:
-            PDAgroup = False
+            if debug == 1:
+                print("collection "+coll+" found\n")
+                return PDAgroup
+
+    webbrowser.open(kanopyID, new=1)
+    PDAgroupResponse = input('Is ' + kanopyID + ' a PDA Title? \nTrue or False')
+    if PDAgroupResponse in (True, 'true', 't', 'T', 'True'):
+        PDAgroup = True
+    else:
+        PDAgroup = False
+
 
     return PDAgroup
 
-def runKanopy(kanID):
-    soup = getKanHTML(kanID)
-    # print ('soup is: ', soup)
-    if soup == '-1':
-        print("video not accessible")
+# unknownCollection = []
+#     for collection in titCollection:
+#         if debug == 1:
+#             print (collection)
+#         if collection in pdaCollections:
+#             PDAgroup = True
+#             if debug == 1:
+#                 print("collection found\n")
+#             return PDAgroup
+#         elif collection == 'Media Education Foundation':
+#             if debug == 1:
+#                 print("found in Media Education Foundation\n")
+#             PDAgroup = False
+#             return PDAgroup
+#         else:
+#             unknownCollection.append(kanopyID)
+#
+#     for kanopyID in unknownCollection:
+#         webbrowser.open(kanopyID, new=1)
+#         PDAgroupResponse = input('Is '+kanopyID+' a PDA Title? \nTrue or False')
+#         if PDAgroupResponse in(True, 'true', 't', 'T', 'True'):
+#             PDAgroup = True
+#         else:
+#             PDAgroup = False
+#
+#     return PDAgroup
 
-        PDAGroup = None
-        return PDAGroup
+def runKanopy(kanID, debug):
+    # soup = getKanHTML(kanID)
+    # # print ('soup is: ', soup)
+    # if soup == '-1':
+    #     print("video not accessible")
+    #
+    #     PDAGroup = None
+    #     return PDAGroup
+    #
+    # titCollection = parseHTML(soup, debug)
+    #
+    # print(titCollection)
+    # # collection = titCollection[titCollection.rfind('from')+5:len(titCollection)]
+    # # title = titCollection[:titCollection.find('from')].strip()
+    #
+    # PDAGroup = testKanopy(kanID,titCollection,debug)
+    #
+    # return PDAGroup
+    # print (soup)
 
-    titCollection = parseHTML(soup)
+    r = urllib.request.urlopen(kanID)
+    rBinary = r.readall()
+    accessResult = rBinary.decode()
 
-    print(titCollection)
-    # collection = titCollection[titCollection.rfind('from')+5:len(titCollection)]
-    # title = titCollection[:titCollection.find('from')].strip()
+    testResult = testKanopy(kanID, accessResult, debug)
 
-    PDAGroup = testKanopy(kanID,titCollection)
-
-    return PDAGroup
-    print (soup)
+    return testResult
 
 def writeToPDAFile(record, file):
     with open(file, 'ab') as x:
@@ -116,8 +170,28 @@ def writeToPDAFile(record, file):
     print("Written!")
 
 
+def getURLs(record, debug):
+    kanURLs = []
+    kU= record.get_fields('856')
+    for url in kU:
+        kanURLs.append(url['u'])
+
+    if debug == 1:
+        for u in kanURLs:
+            print(u)
+
+    return kanURLs
+
+
 def openKanopyMarc():
+    debug = 0
+    debug = input("run in debug mode? press 1 for yes\n")
+    if debug == "1":
+        debug = 1
+        print('running in debug mode!\n')
     marcFile = 'C:\\Users\\fenichele\\Desktop\\Kanopy_MARC_Records__fau.kanopystreaming.com__1-Jun-2015.mrc'
+
+    print("capturing MARC File")
 
     from tkinter import  filedialog
     marcPath = tkinter.filedialog.askopenfile()
@@ -126,30 +200,31 @@ def openKanopyMarc():
     with open(marcFile, 'rb') as fh:
         reader = MARCReader(fh)
 
-        kanURLs = []
+
         for record in reader:
-            kU= record.get_fields('856')
-            for url in kU:
-                kanURLs.append(url['u'])
+            # return record
 
-        for kanLink in kanURLs:
-            isPDA = runKanopy(kanLink)
+            kanURLs = getURLs(record, debug)
 
-            # lockanID = record['001'].value()
-            # lockanID = lockanID.strip('kan')
 
-            print(kanLink, 'is pda:', isPDA)
+            for kanLink in kanURLs:
+                isPDA = runKanopy(kanLink, debug)
 
-            if isPDA is True:
-                writeToPDAFile(record,pdaKanopyMarcFile)
-            elif isPDA is False:
-                writeToPDAFile(record,licenseKanopyMarcFile)
-            elif isPDA is None:
-                "PDA is not applicable b/c we don't have access"
-            else:
-                "PDA is Unknown!"
+                # lockanID = record['001'].value()
+                # lockanID = lockanID.strip('kan')
 
-                print('\n')
+                print(kanLink, 'is pda:', isPDA)
+
+                if isPDA is True:
+                    writeToPDAFile(record,pdaKanopyMarcFile)
+                elif isPDA is False:
+                    writeToPDAFile(record,licenseKanopyMarcFile)
+                elif isPDA is None:
+                    "PDA is not applicable b/c we don't have access"
+                else:
+                    "PDA is Unknown!"
+
+                    print('\n')
 
 
 openKanopyMarc()

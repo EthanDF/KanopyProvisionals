@@ -1,6 +1,7 @@
 First Run Features
 Health » Nursing
 BBCActive
+BBC
 California Newsreel
 Criterion Collection/Janus Films
 Kantola Productions
@@ -8,6 +9,8 @@ Kino Lorber
 Symptom Media
 <<<<<<< HEAD
 Film & Popular » Film Studies
+Child Health
+Film Studies
 =======
 Psychotherapy.net
 Dos Vatos
